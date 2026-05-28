@@ -1,0 +1,13 @@
+{
+  "name": "lark-tui",
+  "version": "1.0.0",
+  "description": "Lark AI Headless Test Orchestrator Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0"
+  }
+}
